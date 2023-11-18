@@ -1,7 +1,7 @@
 # Kavach
 
 A Face detection progam from Video. It can play important role in security.<br>
-It provides and aditional layer for threats preventions. Training models can get data from Government or Institution <br><br>
+It provides and additional layer for threats preventions. Training models can get data from Government or Institution <br><br>
      <img src="https://github.com/PriyanshuBBS/Media/blob/master/KAVACH_page-0001.jpg" alt="SIMZER" style="margin:10px 10px">
 
 
